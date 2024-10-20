@@ -1,0 +1,14 @@
+export { default as DashboardIcon } from './sidebar/dashboard.svg';
+export { default as EscrowIcon } from './sidebar/escrow.svg';
+export { default as GetIcon } from './sidebar/get.svg';
+export { default as RewardsIcon } from './sidebar/rewards.svg';
+export { default as SelectedDashboardIcon } from './sidebar/selectedDashboard.svg';
+export { default as SelectedEscrowIcon } from './sidebar/selectedEscrow.svg';
+export { default as SelectedGetIcon } from './sidebar/selectedGet.svg';
+export { default as SelectedRewardsIcon } from './sidebar/selectedRewards.svg';
+export { default as SelectedStakeIcon } from './sidebar/selectedStake.svg';
+export { default as SelectedSwapIcon } from './sidebar/selectedSwap.svg';
+export { default as SelectedXusdIcon } from './sidebar/selectedXusd.svg';
+export { default as StakeIcon } from './sidebar/stake.svg';
+export { default as SwapIcon } from './sidebar/swap.svg';
+export { default as XUsdIcon } from './sidebar/xUsd.svg';
