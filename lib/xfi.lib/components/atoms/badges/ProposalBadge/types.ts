@@ -1,0 +1,5 @@
+export enum ProposalBadgeType {
+  TEXT = 'TEXT',
+  SOFTWARE_UPGRADE = 'SOFTWARE_UPGRADE',
+  COMMUNITY_POOL_SPEND = 'COMMUNITY_POOL_SPEND',
+}
